@@ -1,6 +1,5 @@
 # portfolio-analysis-funds
 
-# portfolio-analysis-funds
 
 ## Project Structure
 
@@ -11,7 +10,6 @@ data/
 Data Extract.ipynb
 Fund analysis.ipynb
 LICENSE
-notes.md
 proposal.md
 pyproject.toml
 README.md
@@ -30,4 +28,4 @@ This project analyzes Canadian mutual funds using OLS regression to predict futu
 
 1. Review and run `Fund analysis.ipynb` for analysis and modeling.
 2. Data files are located in the `data/` directory.
-3. See `notes.md` and `proposal.md` for project details.
+3. See `proposal.md` for project details.
